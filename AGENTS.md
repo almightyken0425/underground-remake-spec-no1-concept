@@ -11,7 +11,7 @@
 - Design git 尚未建立
 - Impl git 尚未建立
 - 本 repo 是目前唯一 Module 層
-- 配對以 `decision_framework_router` 的註冊表為準
+- 配對以 `product-scope` 的註冊表為準
 
 ---
 
@@ -25,9 +25,9 @@
 
 ## 原生工作規則
 
-- 任何改動先使用 `decision_framework_router`
-- 所有 Spec 改動使用 `spec_writer`
-- Markdown 改動使用 `universal_writing_linter`
+- 任何改動先使用 `product-scope`
+- 所有 Spec 改動使用 `code-spec`
+- Markdown 改動使用 `doc-markdown`
 - 不得假設 Design 或 Impl 已存在
 - 新增下游前先補上游對應
 - 跨層 branch 名稱必須一致
